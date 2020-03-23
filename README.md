@@ -1,2 +1,2 @@
-# practice3
-just practicing
+just practicing making a bio page
+
