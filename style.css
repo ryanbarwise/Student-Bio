@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+}
+
+content {
+    margin: 0 auto;
+}
+
+header { 
+    background: palevioletred;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 20px;
+    
+}
+
+.content{
+    width: 100%;
+}
+
+#main-bio{
+    width: 60%;
+    float: left;
+    background: yellowgreen;
+}
+
+#contact-info{
+    margin-left: 30px;
+    padding-left: 20px;
+    width: 30%;
+    float: left;
+    background: purple;
+    color: white;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 2px;
+    word-wrap: break-word;
+}
+
+.image{
+    float: left;
+    margin-right: 10px;
+    
+}
+
+#list {
+    clear: both;
+    overflow: auto;
+    background: yellow;
+    position: absolute;
+    right: 30%;
+    top: 300px;
+    width: 10%;
+    
+
+}
